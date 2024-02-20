@@ -40,6 +40,7 @@ Following you will find the stack we as Ferber Digital are capable of. If you ar
 
 - Adobe Cloud (Photoshop, Illustrator, Premiere etc.)
 - Final Cut Pro
+- Figma
 
 ## Content Creation
 
