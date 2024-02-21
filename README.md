@@ -4,22 +4,28 @@ Following you will find the stack we as Ferber Digital are capable of. If you ar
 
 ## Frontend
 
-- Angular 2.x - latest
-- Google Tracking and Tag Management Stack
-- CSS with its compilers SCSS, SASS, LESS
-- Javascript (ECMAscript)
-- Typescript
+- Strong focus on Angular 2.x - newest Versions
+- React, vue.js
+- Typescript, Javascript & equivalent
+- Testing Suites in E2E & Unit like Jasmine, Karma, Cypress
+- Google Tracking- and Tag Management Stack + equivalent
+- CSS with SCSS, SASS, LESS
+- Map Applications and Plugins like Google Maps, Leaflet, OpenStreetMap
+- Bootstrap, Tailwind etc.
+- NX, Storybook, Web Component Libraries
+- Electron Applications
 - HTML
 - etc.
 
 ## Backend
 
-- PHP 5.x - latest
 - NodeJS
 - ExpressJS
 - Serverless Backends (AWS, Azure)
-- Wordpress
-- etc.
+- PHP 5.x – newest versions
+- WordPress
+- GraphQL
+- usw.
 
 ## DevOps
 
@@ -42,6 +48,12 @@ Following you will find the stack we as Ferber Digital are capable of. If you ar
 - Final Cut Pro
 - Figma
 
+- ## Project management tools & frameworks
+• Atlassian Tools (Jira, Confluence etc.)
+• Microsoft O365 (Teams, Outlook etc.)
+• Slack, Mattermost etc.
+• ChatGPT, Gemini etc.
+
 ## Content Creation
 
 - Copy texts in german and english
@@ -55,4 +67,5 @@ Following you will find the stack we as Ferber Digital are capable of. If you ar
 - certified Scrum Mastering
 - certified Product Ownership
 - certified professional Scrum with Kanban
+- SAFe Frameworks
 - etc.
