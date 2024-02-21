@@ -25,7 +25,8 @@ Following you will find the stack we as Ferber Digital are capable of. If you ar
 - PHP 5.x – newest versions
 - WordPress
 - GraphQL
-- usw.
+- consuming all APIs and WebSockets you can think of with authorizations like OAuth2, JSON Web Tokens etc.
+- etc.
 
 ## DevOps
 
