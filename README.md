@@ -48,11 +48,11 @@ Following you will find the stack we as Ferber Digital are capable of. If you ar
 - Final Cut Pro
 - Figma
 
-- ## Project management tools & frameworks
-• Atlassian Tools (Jira, Confluence etc.)
-• Microsoft O365 (Teams, Outlook etc.)
-• Slack, Mattermost etc.
-• ChatGPT, Gemini etc.
+## Project management tools & frameworks
+- Atlassian Tools (Jira, Confluence etc.)
+- Microsoft O365 (Teams, Outlook etc.)
+- Slack, Mattermost etc.
+- ChatGPT, Gemini etc.
 
 ## Content Creation
 
