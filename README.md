@@ -1,6 +1,6 @@
 # Technologies & techniques we use at Ferber Digital
 
-Following you will find the stack we as Ferber Digital are capable of. If you are interested in hiring us creating your individual software, feel free to [contact us.](mailto:kontakt@ferber.digital)
+Following you will find the stack we as Ferber Digital are capable of. If you are interested in hiring us creating your individual software, feel free to [contact us.](mailto:hello@ferber.digital)
 
 ## Frontend
 
